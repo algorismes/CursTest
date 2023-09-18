@@ -4,6 +4,8 @@ layout: home
 ---
 # Title 
 
+## Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+
 {: .warning }
 > A paragraph
 
