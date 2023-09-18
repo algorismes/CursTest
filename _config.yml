@@ -8,3 +8,8 @@ aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
 math: mathjax
+
+callouts:
+  warning:
+    title: Warning
+    color: red
