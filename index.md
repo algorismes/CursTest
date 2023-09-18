@@ -4,7 +4,7 @@ layout: home
 ---
 # Title 
 
-> {: .warning }
+{: .warning }
 > A paragraph
 
 $$ y = f(x) $$
