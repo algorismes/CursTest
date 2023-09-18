@@ -4,8 +4,8 @@ layout: home
 ---
 # Title 
 
-{: .warning }
-> Compte!
+> {: .warning }
+> A paragraph
 
 $$ y = f(x) $$
 
