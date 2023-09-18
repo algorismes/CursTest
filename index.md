@@ -2,6 +2,7 @@
 title: Home
 layout: home
 ---
+# Title 
 
 $$ y = f(x) $$
 
