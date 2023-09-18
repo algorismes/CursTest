@@ -2,9 +2,9 @@
 title: Home
 layout: home
 ---
-# Title 
+<h1>Title </h1>
 
-## Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+<h2>Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.</h2> 
 
 {: .warning }
 > A paragraph
